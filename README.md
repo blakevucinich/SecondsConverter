@@ -1,2 +1,1 @@
-# SecondsConverter
-An application that calculates hours, minutes, seconds from a set total number of seconds.
+Read a value from the user representing a number of seconds, and then print the equivalent amount of time as a combination of hours, minutes, and seconds. For example, 9999 seconds is equivalent to 2 hours, 46 minutes, and 39 seconds. The program should use a Scanner to read input from the user. It is helpful to work out the arithmetic equiation on paper before attempting to write the code.
